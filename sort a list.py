@@ -24,4 +24,4 @@ insertionSort(arr)
 for k in range(len(arr)):
 	print ("% d" % arr[k])
 
-# This code is contributed by Mohit Kumra
+# This code was written by EMPEROR Y.P
