@@ -10,3 +10,5 @@ if __name__ == '__main__':
     print(decimalToBinary(8))
     print(decimalToBinary(18))
     print(decimalToBinary(7))
+     
+# this code has being written by EMPEROR Y.P
