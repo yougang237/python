@@ -26,3 +26,5 @@ str = "GeeksforGeeks"
  
 # Function Call
 vowel_count(str)
+
+#this code has been written by EMPEROR Y.P
