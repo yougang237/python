@@ -24,3 +24,5 @@ pi = 22/7
 degree = float(input("input degree: "))
 radians = degree/(180*pi)
 print(radians)
+
+#this code was being written by EMPEROR Y.P
